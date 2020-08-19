@@ -1,0 +1,29 @@
+{
+  "name": "ext-tool",
+  "version": "0.0.1",
+  "description": "A powerful tool for apple developer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pn-X/ext-tool.git"
+  },
+  "keywords": [
+    "Apple",
+    "iOS",
+    "MacOS",
+    "iPadOS",
+    "ext",
+    "tool"
+  ],
+  "author": "pn-x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pn-X/ext-tool/issues"
+  },
+  "homepage": "https://github.com/Pn-X/ext-tool#readme",
+  "bin": {
+    "ext-tool": "./bin/ext-tool"
+  }
+}

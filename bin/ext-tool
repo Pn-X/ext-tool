@@ -1,0 +1,5 @@
+#! /usr/bin/env node
+ 
+const bridge = require('../lib/bridge.js');
+
+bridge.sayHello();
